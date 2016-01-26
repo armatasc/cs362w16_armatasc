@@ -1,2 +1,1 @@
-# cs362w16_armatasc
-Personal CS362 repository for Christian Armatas.
+# CS 362-001 Winter 2016 Core

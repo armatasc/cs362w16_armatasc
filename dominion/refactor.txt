@@ -1,0 +1,9 @@
+REFACTOR COMMENTS
+
+Assignment 1
+
+1.  I moved the card ADVENTURER into a function called adventurerEffect.
+2.  I moved the card FEAST into a function called feastEffect.
+3.  I moved the card MINE into a function called mineEffect.
+4.  I moved the card COUNCIL_ROOM into a function called council_roomEffect.  
+5.  I moved the card REMODEL into a function called remodelEffect.
